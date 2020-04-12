@@ -34,7 +34,7 @@ echo $_SESSION['email'];
 
 
 <h1><a href="Logout.php">Logout here</a> </h1>
-
+<p> Last line on body tag :) </p>
 
 </body>
 
